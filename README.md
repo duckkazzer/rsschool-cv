@@ -1,5 +1,1 @@
-# rsschool-cv
-course frontend
-
-https://duckkazzer.github.io/rsschool-cv/cv
-
+https://duckkazzer.github.io/rsschool-cv/
